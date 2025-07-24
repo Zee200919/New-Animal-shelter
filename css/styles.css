@@ -1,6 +1,6 @@
 
 .right-div{
-    height: 80px;
+    height: 90px;
     width: auto;
     background-color:  rgb(50, 50, 50);
 }
@@ -9,4 +9,20 @@
     height: 30px;
     padding-left: 20px;
     
+}
+.inner-right-div{
+    padding: 10px;
+}
+.corner-animal{
+   width: 1250px;
+   height: 480px;
+
+}
+#logo{
+    height: 50px;
+   padding-top: 10px;
+
+}
+.logo{
+   
 }

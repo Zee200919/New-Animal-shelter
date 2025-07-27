@@ -1,28 +1,175 @@
-
-.right-div{
+.header {
     height: 90px;
     width: auto;
-    background-color:  rgb(50, 50, 50);
+    background-color: rgb(50, 50, 50);
+
 }
-.logo{
+
+.left-side {
+    display: flex;
+}
+
+.social-icons {
     width: 30px;
     height: 30px;
-    padding-left: 20px;
-    
+    padding-left: 50px;
+    padding-top: 20px;
+    display: flex;
+
 }
-.inner-right-div{
+
+.inner-right-div {
     padding: 10px;
 }
-.corner-animal{
-   width: 1250px;
-   height: 480px;
+
+.right-side {
+    display: inline-block;
+}
+
+.corner-animal {
+    width: 1250px;
+    height: 480px;
 
 }
-#logo{
-    height: 50px;
-   padding-top: 10px;
+
+#logo {
+    height: 30px;
+    padding-top: 30px;
 
 }
-.logo{
-   
+
+.as {
+    font-size: 70px;
 }
+
+.animal {
+    background-color: rgb(33, 33, 39);
+}
+
+
+
+
+
+ {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box ;
+}
+
+ul {
+    list-style: none;
+}
+
+.hero-section{
+    background-color: #29282e;
+    padding: 0px 5px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header .left-side {
+    display: flex;
+    align-items: center;
+}
+
+.header .left-side img {
+    width: 130px;
+}
+
+.header .social-icons img {
+    width: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

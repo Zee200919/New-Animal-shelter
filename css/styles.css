@@ -58,6 +58,21 @@ ul {
     margin-right: 20px;
 }
 
+.btn-primary{
+    color: white;
+    background-color: #3f4460;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+.btn-primary:hover{
+    cursor: pointer;
+    background-color: #fd7776;
+    transition: ease-in-out 0.2s;
+}
+
+
 
 
 

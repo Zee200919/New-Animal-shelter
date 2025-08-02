@@ -11,7 +11,7 @@ ul {
 
 .hero-section{
     background-color: #29282e;
-    padding: 0px 5px;
+    padding: 0px 50px;
 }
 
 .header {
@@ -20,42 +20,41 @@ ul {
     justify-content: space-between;
     align-items: center;
 }
+
 .header.left-side {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
+
 .header.right-side{
     display: flex;
     justify-content: space-between;
     align-items: center;
-}   
+} 
+
 .header.left-side img {
     width: 130px;
 }
-.header.social-icons {
+
+.header .social-icons {
     margin-left: 10px;
 }
 
-.header.social-icons {
+.header .social-icons {
     width: 15px;
 }
 
-
-
-
-
-
-.header.right-side ul{
+.header .right-side ul{
     display: inline-flex;
 }
 
-.header.right-side ul a{
+.header .right-side ul a{
     color: white;
     text-decoration: none;
 }
 
-.header.right-side ul li{
+.header .right-side ul li{
     margin-right: 20px;
 }
 

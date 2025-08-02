@@ -20,27 +20,32 @@ ul {
     justify-content: space-between;
     align-items: center;
 }
-.header.social-icons img{
-    width: 10px;
-}
 .header.left-side {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-
-.header.left-side img {
-    width: 130px;
-}
-
-.header.social-icons img {
-    width: 20px;
-}
 .header.right-side{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}   
+.header.left-side img {
+    width: 130px;
 }
+.header.social-icons {
+    margin-left: 10px;
+}
+
+.header.social-icons {
+    width: 15px;
+}
+
+
+
+
+
+
 .header.right-side ul{
     display: inline-flex;
 }

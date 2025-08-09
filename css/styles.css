@@ -72,7 +72,21 @@ ul {
     transition: ease-in-out 0.2s;
 }
 
+.hero-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
+.hero-content-button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-content-button botton, p{
+    margin-right: 20px;
+}
 
 
 
